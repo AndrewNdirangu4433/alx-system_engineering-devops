@@ -19,3 +19,36 @@
 	make sure to save this passphrase in a secure location, 
 	you will not be able to use your keys without the passphrase
 	SSH and RSA keys will be covered in depth in a later project.
+
+	2. > 1-for_best_school:
+	
+	Write a Bash script that displays Best School 10 times.
+	
+	Requirement:
+
+	You must use the for loop (while and until are forbidden)
+	
+	3. > 2-while_best_school:
+
+	Write a Bash script that displays Best School 10 times.
+
+	Requirements:
+
+	You must use the while loop (for and until are forbidden)
+
+	3. > 3-until_best_school:
+
+	Write a Bash script that displays Best School 10 times.
+
+	Requirements:
+
+	You must use the until loop (for and while are forbidden
+
+	4. > 4-if_9_say_hi:
+
+	Write a Bash script that displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line.
+
+	Requirements:
+
+	You must use the while loop (for and until are forbidden)
+	You must use the if statement
