@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Script to dsplay attached IPV4s
+hostname -I | cut -d' ' -f1 ; hostname -i
